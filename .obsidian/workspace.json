@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "247eed7664766fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c86d374bae5474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbf4094b9ffc0087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ngày 1 Thiết bị mạng/Thiết bị mạng.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thiết bị mạng"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7e8d0bb8390686e",
+    "type": "split",
+    "children": [
+      {
+        "id": "471752ab5cb74ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06a4aaa0684205e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "fb3a7099564d19ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "9c162e3bc7800751",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d4bf51b31c969a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a0f0f12254b772c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a30dc1d57333c4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ngày 1 Thiết bị mạng/Thiết bị mạng.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến"
+            }
+          },
+          {
+            "id": "5190fe15cb197e8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ngày 1 Thiết bị mạng/Thiết bị mạng.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra"
+            }
+          },
+          {
+            "id": "112c8fb977c9095f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Thẻ"
+            }
+          },
+          {
+            "id": "0f8601ef28d45997",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tất cả thuộc tính"
+            }
+          },
+          {
+            "id": "0bf6add3736a3561",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ngày 1 Thiết bị mạng/Thiết bị mạng.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Tạo cơ sở mới": false
+    }
+  },
+  "active": "a06a4aaa0684205e",
+  "lastOpenFiles": [
+    "Ngày 1 Thiết bị mạng/Day 01 Lab - Packet Tracer Introduction.pkt~",
+    "Ngày 1 Thiết bị mạng/Day 01 Lab - Packet Tracer Introduction.pkt",
+    "Ngày 1 Thiết bị mạng/Day 01 Flashcards - Network Devices.apkg",
+    "README.md",
+    "Ngày 1 Thiết bị mạng/Thiết bị mạng.md",
+    "images/Pasted image 20261031034102.png",
+    "images/Pasted image 20261031033746.png",
+    "images/Pasted image 20261031033453.png",
+    "images/Pasted image 20261031033158.png",
+    "images/Pasted image 20261031032807.png",
+    "images/Pasted image 20261031031741.png",
+    "images/Pasted image 20261031031713.png",
+    "images/Pasted image 20261031031210.png",
+    "images",
+    "images/Pasted image 20261031030831.png",
+    "Ngày 1 Thiết bị mạng"
+  ]
+}
